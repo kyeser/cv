@@ -1,39 +1,35 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014) (preloaded format=xelatex 2014.12.13)  17 JUN 2015 23:38
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.6.21)  21 JUN 2015 17:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **cv_academic_a4.tex
 (./cv_academic_a4.tex
-LaTeX2e <2014/05/01>
-Babel <3.9k> and hyphenation patterns for 78 languages loaded.
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
+LaTeX2e <2015/01/01>
+Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size11.clo
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
-) (/usr/local/texlive/2014/texmf-dist/tex/latex/fontspec/fontspec.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec.sty
 Package: fontspec 2015/03/14 v2.4c Font selection for XeLaTeX and LuaLaTeX
- (/usr/local/texlive/2014/texmf-dist/tex/latex/l3kernel/expl3.sty
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2015/03/01 v5547 L3 programming layer (loader) 
- (/usr/local/texlive/2014/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/expl3-code.tex
 Package: expl3 2015/03/01 v5547 L3 programming layer (code) 
 L3 Module: l3bootstrap 2015/02/28 v5542 L3 Bootstrap code
- (/usr/local/texlive/2014/texmf-dist/tex/latex/etex-pkg/etex.sty
-Package: etex 2015/03/02 v2.1 eTeX basic definition package (PEB,DPC)
-\et@xins=\count88
-)
 L3 Module: l3names 2015/02/24 v5535 L3 Namespace for primitives
 L3 Module: l3basics 2015/01/27 v5500 L3 Basic definitions
 L3 Module: l3expan 2014/11/27 v5472 L3 Argument expansion
@@ -41,24 +37,24 @@ L3 Module: l3tl 2015/01/27 v5500 L3 Token lists
 L3 Module: l3str 2015/03/01 v5545 L3 Strings
 L3 Module: l3seq 2014/08/23 v5354 L3 Sequences and stacks
 L3 Module: l3int 2015/02/21 v5529 L3 Integers
-\c_max_int=\count89
-\l_tmpa_int=\count90
-\l_tmpb_int=\count91
-\g_tmpa_int=\count92
-\g_tmpb_int=\count93
+\c_max_int=\count87
+\l_tmpa_int=\count88
+\l_tmpb_int=\count89
+\g_tmpa_int=\count90
+\g_tmpb_int=\count91
 L3 Module: l3quark 2014/08/23 v5354 L3 Quarks
 L3 Module: l3prg 2014/08/23 v5354 L3 Control structures
-\g__prg_map_int=\count94
+\g__prg_map_int=\count92
 L3 Module: l3clist 2014/08/23 v5354 L3 Comma separated lists
 L3 Module: l3token 2014/09/15 v5422 L3 Experimental token manipulation
 L3 Module: l3prop 2014/08/23 v5354 L3 Property lists
 L3 Module: l3msg 2015/02/26 v5537 L3 Messages
 L3 Module: l3file 2014/08/24 v5369 L3 File and I/O operations
-\l_iow_line_count_int=\count95
-\l__iow_target_count_int=\count96
-\l__iow_current_line_int=\count97
-\l__iow_current_word_int=\count98
-\l__iow_current_indentation_int=\count99
+\l_iow_line_count_int=\count93
+\l__iow_target_count_int=\count94
+\l__iow_current_line_int=\count95
+\l__iow_current_word_int=\count96
+\l__iow_current_indentation_int=\count97
 L3 Module: l3skip 2014/08/23 v5354 L3 Dimensions and skips
 \c_zero_dim=\dimen103
 \c_max_dim=\dimen104
@@ -79,18 +75,18 @@ L3 Module: l3skip 2014/08/23 v5354 L3 Dimensions and skips
 \g_tmpa_muskip=\muskip14
 \g_tmpb_muskip=\muskip15
 L3 Module: l3keys 2015/01/27 v5500 L3 Key-value interfaces
-\g__keyval_level_int=\count100
-\l_keys_choice_int=\count101
+\g__keyval_level_int=\count98
+\l_keys_choice_int=\count99
 L3 Module: l3fp 2014/08/22 v5336 L3 Floating points
-\c__fp_leading_shift_int=\count102
-\c__fp_middle_shift_int=\count103
-\c__fp_trailing_shift_int=\count104
-\c__fp_big_leading_shift_int=\count105
-\c__fp_big_middle_shift_int=\count106
-\c__fp_big_trailing_shift_int=\count107
-\c__fp_Bigg_leading_shift_int=\count108
-\c__fp_Bigg_middle_shift_int=\count109
-\c__fp_Bigg_trailing_shift_int=\count110
+\c__fp_leading_shift_int=\count100
+\c__fp_middle_shift_int=\count101
+\c__fp_trailing_shift_int=\count102
+\c__fp_big_leading_shift_int=\count103
+\c__fp_big_middle_shift_int=\count104
+\c__fp_big_trailing_shift_int=\count105
+\c__fp_Bigg_leading_shift_int=\count106
+\c__fp_Bigg_middle_shift_int=\count107
+\c__fp_Bigg_trailing_shift_int=\count108
 L3 Module: l3box 2014/08/23 v5354 L3 Experimental boxes
 \c_empty_box=\box26
 \l_tmpa_box=\box27
@@ -135,26 +131,26 @@ L3 Module: l3candidates 2015/03/01 v5544 L3 Experimental additions to l3kernel
 \l__coffin_top_corner_dim=\dimen131
 \l__coffin_scaled_total_height_dim=\dimen132
 \l__coffin_scaled_width_dim=\dimen133
-) (/usr/local/texlive/2014/texmf-dist/tex/latex/l3kernel/l3unicode-data.def
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/l3unicode-data.def
 File: l3unicode-data.def 2015/03/01 v5544 L3 Unicode data
-) (/usr/local/texlive/2014/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/l3kernel/l3xdvipdfmx.def
 File: l3xdvidpfmx.def 2015/03/01 v5544 L3 Experimental driver: xdvipdfmx
-)) (/usr/local/texlive/2014/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+)) (/usr/local/texlive/2015/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2014/11/25 v5471 L3 Experimental document command parser
-\l__xparse_current_arg_int=\count111
-\l__xparse_m_args_int=\count112
-\l__xparse_mandatory_args_int=\count113
-\l__xparse_processor_int=\count114
-\l__xparse_v_nesting_int=\count115
+\l__xparse_current_arg_int=\count109
+\l__xparse_m_args_int=\count110
+\l__xparse_mandatory_args_int=\count111
+\l__xparse_processor_int=\count112
+\l__xparse_v_nesting_int=\count113
 )
-\l_fontspec_script_int=\count116
-\l_fontspec_language_int=\count117
-\l_fontspec_strnum_int=\count118
+\l_fontspec_script_int=\count114
+\l_fontspec_language_int=\count115
+\l_fontspec_strnum_int=\count116
 \l__fontspec_tmpa_dim=\dimen134
 \l__fontspec_tmpb_dim=\dimen135
 \l__fontspec_tmpc_dim=\dimen136
 Variant \tl_gset:cV already defined; not changing it on line 71
- (/usr/local/texlive/2014/texmf-dist/tex/latex/fontspec/fontspec-patches.sty
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec-patches.sty
 Package: fontspec-patches 2015/03/14 v2.4c Font selection for XeLaTeX and LuaLaTeX
 LaTeX Info: Redefining \em on input line 49.
 LaTeX Info: Redefining \emph on input line 57.
@@ -169,41 +165,41 @@ LaTeX Info: Redefining \- on input line 60.
 . 
 . Defining command \liningnums with sig. 'm' on line 159.
 .................................................
-) (/usr/local/texlive/2014/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2015/03/14 v2.4c Font selection for XeLaTeX and LuaLaTeX
- (/usr/local/texlive/2014/texmf-dist/tex/latex/base/fontenc.sty
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
- (/usr/local/texlive/2014/texmf-dist/tex/latex/euenc/eu1enc.def
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1enc.def
 File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
 )
-LaTeX Font Info:    Try loading font information for EU1+lmr on input line 100.
- (/usr/local/texlive/2014/texmf-dist/tex/latex/euenc/eu1lmr.fd
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 105.
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmr.fd
 File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)) (/usr/local/texlive/2014/texmf-dist/tex/xelatex/xunicode/xunicode.sty
+)) (/usr/local/texlive/2015/texmf-dist/tex/xelatex/xunicode/xunicode.sty
 File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many other characters in Unicode lower plane
- (/usr/local/texlive/2014/texmf-dist/tex/latex/tipa/t3enc.def
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3enc.def
 File: t3enc.def 2001/12/31 T3 encoding
 LaTeX Font Info:    Try loading font information for EU1+lmss on input line 357.
- (/usr/local/texlive/2014/texmf-dist/tex/latex/euenc/eu1lmss.fd
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/euenc/eu1lmss.fd
 File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ))
-\tipaTiiicode=\count119
+\tipaTiiicode=\count117
 \tipasavetokens=\toks14
 \tipachecktokens=\toks15
- (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphicx.sty
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/keyval.sty
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
-) (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/graphics.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
- (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/trig.sty
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
-) (/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/graphics.cfg
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: xetex.def on input line 91.
- (/usr/local/texlive/2014/texmf-dist/tex/xelatex/xetex-def/xetex.def
+Package graphics Info: Driver file: xetex.def on input line 94.
+ (/usr/local/texlive/2015/texmf-dist/tex/xelatex/xetex-def/xetex.def
 File: xetex.def 2015/03/25 v4.04 LaTeX color/graphics driver for XeTeX (TeX Live/RRM/JK)
 ))
 \Gin@req@height=\dimen137
@@ -316,14 +312,14 @@ File: xetex.def 2015/03/25 v4.04 LaTeX color/graphics driver for XeTeX (TeX Live
 .................................................
 Variant \prop_gput:cnV already defined; not changing it on line 704
 Variant \prop_gput:cnx already defined; not changing it on line 705
-\l__fontspec_tmp_int=\count120
+\l__fontspec_tmp_int=\count118
 LaTeX Info: Redefining \itshape on input line 2232.
 LaTeX Info: Redefining \slshape on input line 2237.
 LaTeX Info: Redefining \scshape on input line 2242.
 LaTeX Info: Redefining \upshape on input line 2247.
- (/usr/local/texlive/2014/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
 \g__file_internal_ior=\read1
-\g__fontspec_family_ArnoPro_int=\count121
+\g__fontspec_family_ArnoPro_int=\count119
 .................................................
 . fontspec info: "defining-font"
 . 
@@ -372,43 +368,43 @@ LaTeX Info: Redefining \upshape on input line 2247.
 . and font adjustment code:
 . 
 .................................................
- (/usr/local/texlive/2014/texmf-dist/tex/latex/graphics/color.sty
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
- (/usr/local/texlive/2014/texmf-dist/tex/latex/latexconfig/color.cfg
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/latexconfig/color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
-Package color Info: Driver file: xetex.def on input line 137.
-) (/usr/local/texlive/2014/texmf-dist/tex/generic/ulem/ulem.sty
+Package color Info: Driver file: xetex.def on input line 142.
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box41
 \UL@hyphenbox=\box42
 \UL@skip=\skip49
 \UL@hook=\toks17
 \UL@height=\dimen139
-\UL@pe=\count122
+\UL@pe=\count120
 \UL@pixel=\dimen140
 \ULC@box=\box43
 Package: ulem 2012/05/18
 \ULdepth=\dimen141
-) (/usr/local/texlive/2014/texmf-dist/tex/latex/base/latexsym.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/base/latexsym.sty
 Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
 \symlasy=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
-(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
-) (/usr/local/texlive/2014/texmf-dist/tex/latex/tools/calc.sty
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count123
-\calc@Bcount=\count124
+\calc@Acount=\count121
+\calc@Bcount=\count122
 \calc@Adimen=\dimen142
 \calc@Bdimen=\dimen143
 \calc@Askip=\skip50
 \calc@Bskip=\skip51
-LaTeX Info: Redefining \setlength on input line 75.
-LaTeX Info: Redefining \addtolength on input line 76.
-\calc@Ccount=\count125
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count123
 \calc@Cskip=\skip52
-) (/usr/local/texlive/2014/texmf-dist/tex/latex/setspace/setspace.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
-) (/usr/local/texlive/2014/texmf-dist/tex/latex/hanging/hanging.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/hanging/hanging.sty
 Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
 \h@ngcommawd=\skip53
 \h@ngfstopwd=\skip54
@@ -418,8 +414,7 @@ Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
 \h@ngexclwd=\skip58
 \h@ngcolonwd=\skip59
 \h@ngscolonwd=\skip60
-)
-(/usr/local/texlive/2014/texmf-dist/tex/latex/soul/soul.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/soul/soul.sty
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@word=\toks18
 \SOUL@lasttoken=\toks19
@@ -430,20 +425,21 @@ Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@ttwidth=\dimen144
 \SOUL@uldp=\dimen145
 \SOUL@ulht=\dimen146
-) (/usr/local/texlive/2014/texmf-dist/tex/latex/geometry/geometry.sty
+)
+(/usr/local/texlive/2015/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
- (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+ (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is not detected.
-) (/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
-) (/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-\Gm@cnth=\count126
-\Gm@cntv=\count127
-\c@Gm@tempcnt=\count128
+\Gm@cnth=\count124
+\Gm@cntv=\count125
+\c@Gm@tempcnt=\count126
 \Gm@bindingoffset=\dimen147
 \Gm@wd@mp=\dimen148
 \Gm@odd@mp=\dimen149
@@ -453,7 +449,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layouthoffset=\dimen153
 \Gm@layoutvoffset=\dimen154
 \Gm@dimlist=\toks23
-) (/usr/local/texlive/2014/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+) (/usr/local/texlive/2015/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 \fancy@headwidth=\skip62
 \f@ncyO@elh=\skip63
 \f@ncyO@erh=\skip64
@@ -487,7 +483,7 @@ LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 33.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 33.
- (/usr/local/texlive/2014/texmf-dist/tex/latex/tipa/t3cmr.fd
+ (/usr/local/texlive/2015/texmf-dist/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 33.
@@ -597,18 +593,18 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 50.
 LaTeX Font Info:    Try loading font information for U+lasy on input line 50.
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/ulasy.fd
+(/usr/local/texlive/2015/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 ) [1
 
 ] [2] [3] [4] [5] (/Users/kyeser/Documents/GitHub/cv/.texpadtmp/cv_academic_a4.aux) ) 
 Here is how much of TeX's memory you used:
- 14398 strings out of 493734
- 297797 string characters out of 6146347
- 335817 words of memory out of 5000000
- 17631 multiletter control sequences out of 15000+600000
+ 14337 strings out of 493706
+ 297037 string characters out of 6145769
+ 334929 words of memory out of 5000000
+ 17592 multiletter control sequences out of 15000+600000
  7194 words of font info for 50 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
- 46i,11n,58p,10400b,271s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 46i,12n,58p,10400b,271s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/kyeser/Documents/GitHub/cv/.texpadtmp/cv_academic_a4.pdf (5 pages).
