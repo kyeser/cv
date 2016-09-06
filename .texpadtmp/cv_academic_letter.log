@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.8.7)  30 AUG 2016 22:33
+This is XeTeX, Version 3.14159265-2.6-0.99996 (TeX Live 2016) (preloaded format=xelatex 2016.8.7)  6 SEP 2016 15:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -423,6 +423,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen154
 \Gm@dimlist=\toks23
 ) (/usr/local/texlive/2016/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2016/08/27 3.6 Extensive control of page headers and footers
 \fancy@headwidth=\skip62
 \f@ncyO@elh=\skip63
 \f@ncyO@erh=\skip64
@@ -574,7 +575,7 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 Here is how much of TeX's memory you used:
  14502 strings out of 493589
  286135 string characters out of 6143513
- 295746 words of memory out of 5000000
+ 295815 words of memory out of 5000000
  17827 multiletter control sequences out of 15000+600000
  7202 words of font info for 51 fonts, out of 8000000 for 9000
  1347 hyphenation exceptions out of 8191
