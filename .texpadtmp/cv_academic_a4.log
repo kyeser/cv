@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.1.7)  17 JAN 2018 20:09
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2018.2.18)  30 APR 2018 21:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,7 +6,7 @@ entering extended mode
 **cv_academic_a4.tex
 (./cv_academic_a4.tex
 LaTeX2e <2017-04-15>
-Babel <3.16> and hyphenation patterns for 84 language(s) loaded.
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
 (/usr/local/texlive/2017/texmf-dist/tex/latex/base/size11.clo
@@ -24,9 +24,9 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 ) (/usr/local/texlive/2017/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2017/12/16 L3 programming layer (loader) 
+Package: expl3 2018/02/21 L3 programming layer (loader) 
  (/usr/local/texlive/2017/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2017/12/16 L3 programming layer (code)
+Package: expl3 2018/02/21 L3 programming layer (code)
 \c_max_int=\count87
 \l_tmpa_int=\count88
 \l_tmpb_int=\count89
@@ -122,7 +122,7 @@ Package: expl3 2017/12/16 L3 programming layer (code)
 \l__regex_min_submatch_int=\count161
 \l__regex_submatch_int=\count162
 \l__regex_zeroth_submatch_int=\count163
-\g__debug_trace_regex_int=\count164
+\g__regex_trace_regex_int=\count164
 \c_empty_box=\box26
 \l_tmpa_box=\box27
 \l_tmpb_box=\box28
@@ -168,7 +168,7 @@ File: l3xdvidpfmx.def 2017/03/18 v L3 Experimental driver: xdvipdfmx
 \g__driver_image_int=\count165
 \l__driver_tmp_box=\box41
 ))
-Package: xparse 2017/12/16 L3 Experimental document command parser
+Package: xparse 2018/02/21 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count166
 \g__xparse_grabber_int=\count167
 \l__xparse_m_args_int=\count168
@@ -649,12 +649,12 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 
 ] [2] [3] [4] [5] [6] (/Users/kyeser/Documents/GitHub/cv/.texpadtmp/cv_academic_a4.aux) ) 
 Here is how much of TeX's memory you used:
- 11756 strings out of 493005
- 260409 string characters out of 6134588
- 351644 words of memory out of 5000000
- 15665 multiletter control sequences out of 15000+600000
- 533826 words of font info for 58 fonts, out of 8000000 for 9000
+ 11857 strings out of 493007
+ 262798 string characters out of 6134605
+ 355453 words of memory out of 5000000
+ 15765 multiletter control sequences out of 15000+600000
+ 533818 words of font info for 57 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 39i,11n,65p,10432b,256s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 39i,11n,65p,10432b,271s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on /Users/kyeser/Documents/GitHub/cv/.texpadtmp/cv_academic_a4.pdf (6 pages).
