@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.22)  13 APR 2019 22:05
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.12.22)  13 APR 2019 21:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**cv_academic_a4.tex
-(./cv_academic_a4.tex
+**cv_academic_letter.tex
+(./cv_academic_letter.tex
 LaTeX2e <2018-12-01>
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -345,8 +345,13 @@ Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
 \f@nch@O@erf=\skip68
 \f@nch@O@olf=\skip69
 \f@nch@O@orf=\skip70
-) (/Users/kyeser/Documents/GitHub/cv/.texpadtmp/cv_academic_a4.aux)
-\openout1 = `cv_academic_a4.aux'.
+)
+
+LaTeX Warning: Unused global option(s):
+    [letter].
+
+(/Users/kyeser/Documents/GitHub/cv/.texpadtmp/cv_academic_letter.aux)
+\openout1 = `cv_academic_letter.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
 LaTeX Font Info:    ... okay on input line 33.
@@ -424,16 +429,16 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
 * driver: xetex
-* paper: a4paper
+* paper: <default>
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
-* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
-* \paperwidth=597.50787pt
-* \paperheight=845.04684pt
-* \textwidth=452.9679pt
-* \textheight=700.50687pt
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
 * \oddsidemargin=0.0pt
 * \evensidemargin=0.0pt
 * \topmargin=-37.0pt
@@ -441,7 +446,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * \headsep=25.0pt
 * \topskip=11.0pt
 * \footskip=30.0pt
-* \marginparwidth=50.0pt
+* \marginparwidth=59.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.0pt plus 4.0pt minus 2.0pt
@@ -470,25 +475,20 @@ LaTeX Font Info:    Try loading font information for U+lasy on input line 56.
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Overfull \hbox (11.74037pt too wide) in paragraph at lines 55--61
+Overfull \hbox (11.74069pt too wide) in paragraph at lines 55--61
 []|  []  
  []
 
 [1
 
-] [2]
-Overfull \hbox (1.67494pt too wide) in paragraph at lines 251--315
-|  []  
- []
-
-[3] [4] [5] [6] (/Users/kyeser/Documents/GitHub/cv/.texpadtmp/cv_academic_a4.aux) ) 
+] [2] [3] [4] [5] [6] [7] (/Users/kyeser/Documents/GitHub/cv/.texpadtmp/cv_academic_letter.aux) ) 
 Here is how much of TeX's memory you used:
- 13310 strings out of 492933
- 290727 string characters out of 6133144
- 386149 words of memory out of 5000000
- 17279 multiletter control sequences out of 15000+600000
+ 13311 strings out of 492933
+ 290772 string characters out of 6133144
+ 383236 words of memory out of 5000000
+ 17280 multiletter control sequences out of 15000+600000
  535924 words of font info for 64 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 43i,11n,79p,360b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 43i,11n,79p,364b,446s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on /Users/kyeser/Documents/GitHub/cv/.texpadtmp/cv_academic_a4.pdf (6 pages).
+Output written on /Users/kyeser/Documents/GitHub/cv/.texpadtmp/cv_academic_letter.pdf (7 pages).
