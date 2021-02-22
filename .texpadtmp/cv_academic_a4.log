@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.2.14)  21 FEB 2021 23:51
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020) (preloaded format=xelatex 2021.2.22)  23 FEB 2021 03:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,49 +6,49 @@ entering extended mode
 **cv_academic_a4.tex
 (./cv_academic_a4.tex
 LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-06> (/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2021-02-18> (/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/size11.clo
 File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
 )
-\c@part=\count173
-\c@section=\count174
-\c@subsection=\count175
-\c@subsubsection=\count176
-\c@paragraph=\count177
-\c@subparagraph=\count178
-\c@figure=\count179
-\c@table=\count180
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2021-02-06 L3 programming layer (loader) 
+Package: expl3 2021-02-18 L3 programming layer (loader) 
  (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2021-02-06 L3 backend support: XeTeX
+File: l3backend-xetex.def 2021-02-18 L3 backend support: XeTeX
  (|extractbb --version)
-\c__kernel_sys_dvipdfmx_version_int=\count181
-\l__color_backend_stack_int=\count182
-\g__graphics_track_int=\count183
+\c__kernel_sys_dvipdfmx_version_int=\count183
+\l__color_backend_stack_int=\count184
+\g__graphics_track_int=\count185
 \l__pdf_internal_box=\box47
-\g__pdf_backend_object_int=\count184
-\g__pdf_backend_annotation_int=\count185
-\g__pdf_backend_link_int=\count186
+\g__pdf_backend_object_int=\count186
+\g__pdf_backend_annotation_int=\count187
+\g__pdf_backend_link_int=\count188
 )) (/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty (/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex)))
 Package: fontspec 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
  (/usr/local/texlive/2020/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
 Package: fontspec-xetex 2020/02/21 v2.7i Font selection for XeLaTeX and LuaLaTeX
-\l__fontspec_script_int=\count187
-\l__fontspec_language_int=\count188
-\l__fontspec_strnum_int=\count189
-\l__fontspec_tmp_int=\count190
-\l__fontspec_tmpa_int=\count191
-\l__fontspec_tmpb_int=\count192
-\l__fontspec_tmpc_int=\count193
-\l__fontspec_em_int=\count194
-\l__fontspec_emdef_int=\count195
-\l__fontspec_strong_int=\count196
-\l__fontspec_strongdef_int=\count197
+\l__fontspec_script_int=\count189
+\l__fontspec_language_int=\count190
+\l__fontspec_strnum_int=\count191
+\l__fontspec_tmp_int=\count192
+\l__fontspec_tmpa_int=\count193
+\l__fontspec_tmpb_int=\count194
+\l__fontspec_tmpc_int=\count195
+\l__fontspec_em_int=\count196
+\l__fontspec_emdef_int=\count197
+\l__fontspec_strong_int=\count198
+\l__fontspec_strongdef_int=\count199
 \l__fontspec_tmpa_dim=\dimen139
 \l__fontspec_tmpb_dim=\dimen140
 \l__fontspec_tmpc_dim=\dimen141
@@ -95,7 +95,7 @@ File: xetex.def 2020/08/26 v5.0i Graphics/color driver for xetex
 \UL@skip=\skip49
 \UL@hook=\toks15
 \UL@height=\dimen142
-\UL@pe=\count198
+\UL@pe=\count266
 \UL@pixel=\dimen143
 \ULC@box=\box50
 Package: ulem 2019/11/18
@@ -107,15 +107,15 @@ LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
 (Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count199
-\calc@Bcount=\count266
+\calc@Acount=\count267
+\calc@Bcount=\count268
 \calc@Adimen=\dimen145
 \calc@Bdimen=\dimen146
 \calc@Askip=\skip50
 \calc@Bskip=\skip51
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count267
+\calc@Ccount=\count269
 \calc@Cskip=\skip52
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
@@ -163,9 +163,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
-\Gm@cnth=\count268
-\Gm@cntv=\count269
-\c@Gm@tempcnt=\count270
+\Gm@cnth=\count270
+\Gm@cntv=\count271
+\c@Gm@tempcnt=\count272
 \Gm@bindingoffset=\dimen152
 \Gm@wd@mp=\dimen153
 \Gm@odd@mp=\dimen154
@@ -321,10 +321,10 @@ File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 
 ] [2] [3] [4] [5] (/Users/kyeser/Documents/GitHub/cv/.texpadtmp/cv_academic_a4.aux) ) 
 Here is how much of TeX's memory you used:
- 4513 strings out of 477218
- 119120 string characters out of 5830434
- 477214 words of memory out of 5000000
- 24168 multiletter control sequences out of 15000+600000
+ 4487 strings out of 476939
+ 118393 string characters out of 5822580
+ 490281 words of memory out of 5000000
+ 24420 multiletter control sequences out of 15000+600000
  407016 words of font info for 67 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  81i,11n,89p,271b,250s stack positions out of 5000i,500n,10000p,200000b,80000s
