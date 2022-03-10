@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.1.30)  2 MAR 2022 03:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2022.2.20)  10 MAR 2022 11:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -6,7 +6,7 @@ entering extended mode
 **cv_academic_kr.tex
 (./cv_academic_kr.tex
 LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-01-21> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2022-02-05> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
@@ -30,7 +30,7 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 ) (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
  (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
-Package: iftex 2020/03/06 v1.0d TeX engine tests
+Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count193
 \Gm@cntv=\count194
@@ -306,7 +306,7 @@ Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footer
 \f@nch@O@olf=\skip70
 \f@nch@O@orf=\skip71
 ) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count276
 \l__pdf_internal_box=\box58
 ) (/Users/kyeser/Documents/GitHub/cv/.texpadtmp/cv_academic_kr.aux)
@@ -551,10 +551,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 253--256
 
 [5] [6] (/Users/kyeser/Documents/GitHub/cv/.texpadtmp/cv_academic_kr.aux) ) 
 Here is how much of TeX's memory you used:
- 7228 strings out of 478287
- 108121 string characters out of 5846750
- 427031 words of memory out of 5000000
- 25083 multiletter control sequences out of 15000+600000
+ 7236 strings out of 478278
+ 108206 string characters out of 5846547
+ 427253 words of memory out of 5000000
+ 25100 multiletter control sequences out of 15000+600000
  551595 words of font info for 261 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  86i,11n,90p,576b,317s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -562,7 +562,7 @@ Here is how much of TeX's memory you used:
 /nanumtype1/nanummjbd0.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd3.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd4.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd5.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjm30.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmac.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmaf.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb0.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb1.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb3.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb4.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb5.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbc.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbd.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbe.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc0.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc1.
 pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc4.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc8.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc9.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcc.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcd.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmce.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcf.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd0.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd1.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd2.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd3.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd4.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/uhc/umj/umj22.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/uhc/umj/umj23.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/uhc/umj/umj25.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/uhc/umj/umj26.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/uhc/umj/umj29.pfb></usr/local/texlive/2
 021/texmf-dist/fonts/type1/uhc/umj/umj31.pfb>
-Output written on /Users/kyeser/Documents/GitHub/cv/.texpadtmp/cv_academic_kr.pdf (6 pages, 2873838 bytes).
+Output written on /Users/kyeser/Documents/GitHub/cv/.texpadtmp/cv_academic_kr.pdf (6 pages, 2873883 bytes).
 PDF statistics:
  406 PDF objects out of 1000 (max. 8388607)
  243 compressed objects within 3 object streams
