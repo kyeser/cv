@@ -44,7 +44,7 @@ hskye@hanyang.ac.kr
 - Transformational theory and *Formenlehre*
 - Cultural history of music, disease, disability, and death
 - Phenomenology of music/sound in opera, film, and video games
-- Soundscape, media culture, and sonic politics
+- Sound/scape, media culture, and sonic politics
 - Digital humanities and AI-enhanced pedagogy
 
 ## Selected Publications
