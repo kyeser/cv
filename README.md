@@ -1,8 +1,14 @@
 # Hee Seng Kye, Ph.D.
 
-**Associate Professor of Musicology** <br/> College of Music, Hanyang University <br/> Room 305, Music Hall 2 (Bldg. 403) <br/> 222 Wangsimni-ro, Seongdong-gu <br/> Seoul, Korea 04762 <br/> hskye@hanyang.ac.kr
+**Associate Professor of Musicology** <br/>
+College of Music, Hanyang University <br/>
+Room 305, Music Hall 2 (Bldg. 403) <br/>
+222 Wangsimni-ro, Seongdong-gu <br/>
+Seoul, Korea 04762 <br/>
+hskye@hanyang.ac.kr
 
-[↓ Download CV as PDF](https://undoingmusicology.com/cv_academic_a4.pdf) <br/> (*Last updated 17 March 2026*)
+[↓ Download CV as PDF](cv_academic_a4.pdf) <br/>
+(*Last updated 17 March 2026*)
 
 ---
 
