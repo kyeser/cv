@@ -41,7 +41,11 @@ hskye@hanyang.ac.kr
 
 ## Research & Teaching Interests
 
-Transformational theory and *Formenlehre* · Cultural history of music, disease, disability, and death · Phenomenology of music/sound in opera, film, and video games · Soundscape, media culture, and sonic politics · Digital humanities and AI-enhanced pedagogy
+- Transformational theory and *Formenlehre*
+- Cultural history of music, disease, disability, and death
+- Phenomenology of music/sound in opera, film, and video games
+- Soundscape, media culture, and sonic politics
+- Digital humanities and AI-enhanced pedagogy
 
 ## Selected Publications
 
@@ -112,7 +116,11 @@ Transformational theory and *Formenlehre* · Cultural history of music, disease,
 
 ## Professional Affiliations
 
-International Musicological Society · American Musicological Society · Society for Music Theory · The Musicological Society of Korea · Korean Society for Music Theory
+- International Musicological Society
+- American Musicological Society
+- Society for Music Theory
+- The Musicological Society of Korea
+- Korean Society for Music Theory
 
 ## Service
 
