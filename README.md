@@ -71,6 +71,7 @@ hskye@hanyang.ac.kr
 - **2026** · "On-Stage, Backstage: Sonic Cartography and the Exposed Architecture of Theme Park Sound in HBO's *Westworld*." Sonic Cartographies: Mapping Music and Sound in Theme Parks. Royal Holloway University of London, United Kingdom. June 18–20.
 - **2026** · "Teaching Music History through Disease, Disability, and Suffering: Open-Source Collaborative Knowledge Building." 2026 Teaching Music History Conference, AMS Pedagogy Study Group. New York University. June 5–7.
 - **2026** · "Sounding Danger: Heuristics of Fear from Ottoman Drums to Digital Worlds." Listening to Fear: Music, Emotion, and Crisis in Eurasia, 1550–1750. University of Music and Performing Arts Vienna, Austria. May 6–8.
+- **2026** . "Constructing Pitch-Centricity: Analytical Operations as Constitutive Acts." Tonality and Pitch-Centricity: Analytical Challenges in Post-War Western Art Music. Universidade do Minho, Braga, Portugal. April 23–24.
 - **2024** · "Echoes of the Otherworld: Korean Shamanic Soundscapes in Contemporary Cinema." IV International Conference Rethinking Soundscapes. University of Évora, Portugal. November 27–29.
 - **2022** · "The *Waesaek* Controversies, or the Sound of Modernity in Park Chan-wook's *The Handmaiden*." AAS 2022 Annual Conference. Honolulu, Hawai'i. March 24–27.
 - **2021** · "Hymn, Lullaby, and 'Happy Birthday': Park Chan-wook's *Lady Vengeance* as a Musical Commentary on Protestant Christianity in Korea." 30th AKSE Conference. La Rochelle, France. October 28–31.
