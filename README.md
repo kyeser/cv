@@ -8,7 +8,7 @@ Seoul, Korea 04762 <br/>
 hskye@hanyang.ac.kr
 
 [↓ Download CV as PDF](cv_academic_a4.pdf) <br/>
-(*Last updated 17 March 2026*)
+(*Last updated 18 March 2026*)
 
 ---
 
@@ -68,13 +68,13 @@ hskye@hanyang.ac.kr
 
 - **2026** · "The Constancy of Music: Distorted Memory and 'Will/Can the Circle Be Unbroken' in *BioShock Infinite*." Ludo2026. Edge Hill University, United Kingdom. August 6–8.
 - **2026** · "Timbre as Exposure: Fragility, Proximity, and the Audibility of the Body." The 4th International Conference on Timbre. University of Montreal, Canada. July 2–4.
-- **2026** · "On-Stage, Backstage: Sonic Cartography and the Exposed Architecture of Theme Park Sound in HBO's *Westworld*." Sonic Cartographies: Mapping Music and Sound in Theme Parks. Royal Holloway University of London, United Kingdom. June 18–20.
-- **2026** · "Teaching Music History through Disease, Disability, and Suffering: Open-Source Collaborative Knowledge Building." 2026 Teaching Music History Conference, AMS Pedagogy Study Group. New York University. June 5–7.
+- **2026** · "On-Stage, Backstage: Sonic Cartography and the Exposed Architecture of Theme Park Sound in HBO's *Westworld*." Sonic Cartographies: Mapping Music and Sound in Theme Parks. Royal Holloway University of London, United Kingdom. Zoom, June 18–20.
+- **2026** · "Teaching Music History through Disease, Disability, and Suffering: Open-Source Collaborative Knowledge Building." 2026 Teaching Music History Conference, AMS Pedagogy Study Group. New York University. Zoom, June 5–7.
 - **2026** · "Sounding Danger: Heuristics of Fear from Ottoman Drums to Digital Worlds." Listening to Fear: Music, Emotion, and Crisis in Eurasia, 1550–1750. University of Music and Performing Arts Vienna, Austria. May 6–8.
-- **2026** . "Constructing Pitch-Centricity: Analytical Operations as Constitutive Acts." Tonality and Pitch-Centricity: Analytical Challenges in Post-War Western Art Music. Universidade do Minho, Braga, Portugal. April 23–24.
+- **2026** . "Constructing Pitch-Centricity: Analytical Operations as Constitutive Acts." Tonality and Pitch-Centricity: Analytical Challenges in Post-War Western Art Music. Universidade do Minho, Braga, Portugal. Zoom, April 23–24.
 - **2024** · "Echoes of the Otherworld: Korean Shamanic Soundscapes in Contemporary Cinema." IV International Conference Rethinking Soundscapes. University of Évora, Portugal. November 27–29.
-- **2022** · "The *Waesaek* Controversies, or the Sound of Modernity in Park Chan-wook's *The Handmaiden*." AAS 2022 Annual Conference. Honolulu, Hawai'i. March 24–27.
-- **2021** · "Hymn, Lullaby, and 'Happy Birthday': Park Chan-wook's *Lady Vengeance* as a Musical Commentary on Protestant Christianity in Korea." 30th AKSE Conference. La Rochelle, France. October 28–31.
+- **2022** · "The *Waesaek* Controversies, or the Sound of Modernity in Park Chan-wook's *The Handmaiden*." AAS 2022 Annual Conference. Honolulu, Hawai'i. Zoom, March 24–27.
+- **2021** · "Hymn, Lullaby, and 'Happy Birthday': Park Chan-wook's *Lady Vengeance* as a Musical Commentary on Protestant Christianity in Korea." 30th AKSE Conference. La Rochelle, France. Zoom, October 28–31.
 - **2019** · "Rehabilitating Gemma, or Hearing the Voices of an Empty Womb in Donizetti's *Gemma di Vergy*." The 5th Biennial Conference of the East Asian Regional Association of IMS. Soochow University, China. October 18–20.
 - **2018** · "The Fellowship of the Sound(tracks): How the Regalia Became a Place to Unwind in *Final Fantasy XV*." Music & the Moving Image XIII. New York University. May 24–27.
 - **2017** · "Soundscape of the Future in Sci-fi Film: The 'Aural' Gaze and the Dissolution of Subjectivity." 20th Quinquennial Congress of the International Musicological Society. Tokyo University of the Arts, Japan. March 19–23.
