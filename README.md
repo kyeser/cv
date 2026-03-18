@@ -4,7 +4,7 @@
 College of Music, Hanyang University <br/>
 Room 305, Music Hall 2 (Bldg. 403) <br/>
 222 Wangsimni-ro, Seongdong-gu <br/>
-Seoul, Korea 04762 <br/>
+Seoul, Korea 04763 <br/>
 hskye@hanyang.ac.kr
 
 [↓ Download CV as PDF](cv_academic_a4.pdf) <br/>
