@@ -8,7 +8,7 @@ Seoul, Korea 04763 <br/>
 hskye@hanyang.ac.kr
 
 [↓ Download CV as PDF](cv_academic_a4.pdf) <br/>
-(*Last updated 18 March 2026*)
+(*Last updated 29 March 2026*)
 
 ---
 
