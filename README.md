@@ -52,6 +52,7 @@ hskye@hanyang.ac.kr
 - **Under Review** · "Listening as Exposure: Illness, Involuntary Negativity, and the Limits of Aesthetic Choice." In *Music and Sound in Negative Aesthetics and Metaphysics: East and West*, edited by Maurice Windleburn, Keri Hui, and Jonathan W. Johnson. Edinburgh University Press.
 - **Forthcoming** · "Spirituality after Damage: Auditory Anamnesis and the Posthuman Musical Body." In *Routledge Handbook in Posthuman Perspectives on Music and Spirituality*, edited by Zoey Cochran and Ariane Couture.
 - **2027** · "What Do We Listen For? Bach as a Stress Test for the 'New Theory' and the Ethics of Microtheoretical Listening." *BACH: Journal of the Riemenschneider Bach Institute*, special issue edited by Christina Fuhrmann and Vasili Byros.
+- **2026** · "Inventing Classical Form: How Carl Czerny's *School of Practical Composition* Constructed 'Sonata Form' for the Nineteenth Century." *Journal of the Science and Practice of Music* 55.
 - **2025** · "Listening in a Quarantined World During COVID-19." In *Philosophy of Listening: What Do We Hear, and What Do We Not?*, 173–95. Seoul: Gom Publishing.
 - **2025** · "Brave New (e)World: 'Playing' Games." In *Philosophy of Listening: What Do We Hear, and What Do We Not?*, 197–227. Seoul: Gom Publishing.
 - **2023** · "Open Musicology for SDGs." *The Korean Journal of Arts Studies* 41:33–46.
@@ -69,6 +70,7 @@ hskye@hanyang.ac.kr
 - **2026** · "The Constancy of Music: Distorted Memory and 'Will/Can the Circle Be Unbroken' in *BioShock Infinite*." Ludo2026. Edge Hill University, United Kingdom. August 6–8.
 - **2026** · "Timbre as Exposure: Fragility, Proximity, and the Audibility of the Body." The 4th International Conference on Timbre. University of Montreal, Canada. July 2–4.
 - **2026** · "On-Stage, Backstage: Sonic Cartography and the Exposed Architecture of Theme Park Sound in HBO's *Westworld*." Sonic Cartographies: Mapping Music and Sound in Theme Parks. Royal Holloway University of London, United Kingdom. Zoom, June 18–20.
+- **2026** · "What Do We Listen For? Bach as a Stress Test for the 'New Theory.'" Hong Kong as Music Theory Conference. Hong Kong Association of Music Theorists. The University of Hong Kong. June 12–13.
 - **2026** · "Teaching Music History through Disease, Disability, and Suffering: Open-Source Collaborative Knowledge Building." 2026 Teaching Music History Conference, AMS Pedagogy Study Group. New York University. Zoom, June 5–7.
 - **2026** · "Sounding Danger: Heuristics of Fear from Ottoman Drums to Digital Worlds." Listening to Fear: Music, Emotion, and Crisis in Eurasia, 1550–1750. University of Music and Performing Arts Vienna, Austria. May 6–8.
 - **2026** . "Constructing Pitch-Centricity: Analytical Operations as Constitutive Acts." Tonality and Pitch-Centricity: Analytical Challenges in Post-War Western Art Music. Universidade do Minho, Braga, Portugal. Zoom, April 23–24.
@@ -86,6 +88,9 @@ hskye@hanyang.ac.kr
 
 - **2019–22** · "Politics of Sound and Listening: A Critical Listening of Culture and Technology." Music Research Center, Hanyang University
 - **2015–18** · "Sound, Space, and Mobility: The Soundscape of 'in-between' Space." Music Research Center, Hanyang University
+
+**Research Assistant**
+
 - **2010–13** · "Study on the Neural Mechanism in the Perception of Tonality Using Magnetoencephalography." Collaborative research with MEG Center, Seoul National University Hospital. College of Music, Seoul National University, Korea
 
 ## Teaching Experience
