@@ -10,7 +10,7 @@ https://mrc.hanyang.ac.kr <br/>
 https://undoingmusicology.com
 
 [↓ Download CV as PDF](cv_academic_a4.pdf) <br/>
-(*Last updated 29 March 2026*)
+(*Last updated 10 April 2026*)
 
 ---
 
@@ -69,6 +69,7 @@ https://undoingmusicology.com
 
 ## Selected Conference Papers
 
+- **2026** · "When Algorithms Curate Shamans: K-Horror Soundscapes, Streaming Platforms, and the Flattening of Korean Sonic Identity." The 13th World Congress of Korean Studies. Ritsumeikan University, Suzaku Campus, Kyoto, Japan. September 5–6.
 - **2026** · "The Constancy of Music: Distorted Memory and 'Will/Can the Circle Be Unbroken' in *BioShock Infinite*." Ludo2026. Edge Hill University, United Kingdom. August 6–8.
 - **2026** · "Timbre as Exposure: Fragility, Proximity, and the Audibility of the Body." The 4th International Conference on Timbre. University of Montreal, Canada. July 2–4.
 - **2026** · "On-Stage, Backstage: Sonic Cartography and the Exposed Architecture of Theme Park Sound in HBO's *Westworld*." Sonic Cartographies: Mapping Music and Sound in Theme Parks. Royal Holloway University of London, United Kingdom. Zoom, June 18–20.
