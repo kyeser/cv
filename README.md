@@ -1,6 +1,6 @@
 # Hee Seng Kye, Ph.D.
 
-**Associate Professor of Musicology** <br/>
+**Associate Professor of Music** <br/>
 College of Music, Hanyang University <br/>
 Room 305, Music Hall 2 (Bldg. 403) <br/>
 222 Wangsimni-ro, Seongdong-gu <br/>
@@ -10,13 +10,13 @@ https://mrc.hanyang.ac.kr <br/>
 https://undoingmusicology.com
 
 [↓ Download CV as PDF](cv_academic_a4.pdf) <br/>
-(*Last updated 10 April 2026*)
+(*Last updated 24 June 2026*)
 
 ---
 
 ## Bio
 
-**Hee Seng Kye** is Associate Professor of Musicology and Director of the Music Research Center at Hanyang University in Seoul, Korea. He studied composition with Milton Babbitt at The Juilliard School (B.M.) and completed an M.A. at Queens College, City University of New York, before earning a Ph.D. in musicology from The University of Hong Kong. His research addresses music theory, analytical methodology, and the ethics of musical listening. His work is forthcoming in the *BACH: Journal of the Riemenschneider Bach Institute*, the *Routledge Handbook on Music and Posthumanism*, and other venues. He is completing a monograph on music in relation to disease, disability, and death.
+**Hee Seng Kye** is Associate Professor of Musico and Director of the Music Research Center at Hanyang University in Seoul, Korea. He studied composition with Milton Babbitt at The Juilliard School (B.M.) and completed an M.A. at Queens College, City University of New York, before earning a Ph.D. in musicology from The University of Hong Kong. He works across music theory, sound studies, and medical humanities, with a sustained interest in moving images across media including opera, film, and video games. His writing has appeared in *Contemporary Music Review* and elsewhere, with forthcoming pieces in *BACH: Journal of the Riemenschneider Bach Institute*, the *Routledge Handbook of Music and Posthumanism*, and other venues. He is completing a monograph on music in relation to disease, disability, and death.
 
 <details>
 <summary>한국어</summary>
@@ -30,9 +30,9 @@ https://undoingmusicology.com
 
 **Hanyang University**
 
-- **2024–present** · Associate Professor, Department of Composition, College of Music
+- **2024–present** · Associate Professor of Music, Department of Composition, College of Music
 - **2025–present** · Director, Music Research Center
-- **2022–24** · Assistant Professor of Musicology
+- **2022–24** · Assistant Professor of Music, Department of Composition, College of Music
 - **2015–22** · Full-time Researcher, Music Research Center
 
 ## Education
@@ -52,7 +52,7 @@ https://undoingmusicology.com
 ## Selected Publications
 
 - **Under Review** · "Listening as Exposure: Illness, Involuntary Negativity, and the Limits of Aesthetic Choice." In *Music and Sound in Negative Aesthetics and Metaphysics: East and West*, edited by Maurice Windleburn, Keri Hui, and Jonathan W. Johnson. Edinburgh University Press.
-- **Forthcoming** · "Spirituality after Damage: Auditory Anamnesis and the Posthuman Musical Body." In *Routledge Handbook in Posthuman Perspectives on Music and Spirituality*, edited by Zoey Cochran and Ariane Couture.
+- **Forthcoming** · "Spirituality after Damage: Auditory Anamnesis and the Posthuman Musical Body." In *Routledge Handbook of Posthuman Perspectives on Music and Spirituality*, edited by Zoey Cochran and Ariane Couture.
 - **2027** · "What Do We Listen For? Bach as a Stress Test for the 'New Theory' and the Ethics of Microtheoretical Listening." *BACH: Journal of the Riemenschneider Bach Institute*, special issue edited by Christina Fuhrmann and Vasili Byros.
 - **2026** · "Inventing Classical Form: How Carl Czerny's *School of Practical Composition* Constructed 'Sonata Form' for the Nineteenth Century." *Journal of the Science and Practice of Music* 55.
 - **2025** · "Listening in a Quarantined World During COVID-19." In *Philosophy of Listening: What Do We Hear, and What Do We Not?*, 173–95. Seoul: Gom Publishing.
@@ -69,6 +69,7 @@ https://undoingmusicology.com
 
 ## Selected Conference Papers
 
+- **2026** · "Parallel Monophony: What Methodological Pluralism Can Learn from Counterpoint." Polyphony of Music Theory: Methodological Pluralism in Scholarship. The 16th Biennial International Conference on Music Theory and Analysis, Belgrade, Serbia. Zoom, October 2–4.
 - **2026** · "When Algorithms Curate Shamans: K-Horror Soundscapes, Streaming Platforms, and the Flattening of Korean Sonic Identity." The 13th World Congress of Korean Studies. Ritsumeikan University, Suzaku Campus, Kyoto, Japan. September 5–6.
 - **2026** · "The Constancy of Music: Distorted Memory and 'Will/Can the Circle Be Unbroken' in *BioShock Infinite*." Ludo2026. Edge Hill University, United Kingdom. August 6–8.
 - **2026** · "Timbre as Exposure: Fragility, Proximity, and the Audibility of the Body." The 4th International Conference on Timbre. University of Montreal, Canada. July 2–4.
